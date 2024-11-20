@@ -2,4 +2,6 @@ Hola, Git!
 
 Soy Edu. ¿Qué tal?
 
+Encantado de conocerte.
+
 ¡Hablamos!
