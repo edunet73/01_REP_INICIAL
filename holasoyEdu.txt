@@ -1,2 +1,5 @@
-Hola, soy Edu
-¿Qué tal?
+Hola, Git!
+
+Soy Edu. ¿Qué tal?
+
+¡Hablamos!
